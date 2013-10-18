@@ -25,4 +25,9 @@
     "check-assertion": "./bin/check-assertion",
     "certify": "./bin/certify"
   }
+  , "bugs": "https://github.com/mozilla/jwcrypto/issues
+  , "licenses": {
+    "type": "MPL 2.0",
+    "url": "https://raw.github.com/mozilla/jwcrypto/master/LICENSE"
+  }
 }
